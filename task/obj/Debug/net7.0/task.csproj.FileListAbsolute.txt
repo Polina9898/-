@@ -1,0 +1,15 @@
+/Users/polina_nesm/Documents/learning/итоговая работа/task/bin/Debug/net7.0/task
+/Users/polina_nesm/Documents/learning/итоговая работа/task/bin/Debug/net7.0/task.deps.json
+/Users/polina_nesm/Documents/learning/итоговая работа/task/bin/Debug/net7.0/task.runtimeconfig.json
+/Users/polina_nesm/Documents/learning/итоговая работа/task/bin/Debug/net7.0/task.dll
+/Users/polina_nesm/Documents/learning/итоговая работа/task/bin/Debug/net7.0/task.pdb
+/Users/polina_nesm/Documents/learning/итоговая работа/task/obj/Debug/net7.0/task.csproj.AssemblyReference.cache
+/Users/polina_nesm/Documents/learning/итоговая работа/task/obj/Debug/net7.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polina_nesm/Documents/learning/итоговая работа/task/obj/Debug/net7.0/task.AssemblyInfoInputs.cache
+/Users/polina_nesm/Documents/learning/итоговая работа/task/obj/Debug/net7.0/task.AssemblyInfo.cs
+/Users/polina_nesm/Documents/learning/итоговая работа/task/obj/Debug/net7.0/task.csproj.CoreCompileInputs.cache
+/Users/polina_nesm/Documents/learning/итоговая работа/task/obj/Debug/net7.0/task.dll
+/Users/polina_nesm/Documents/learning/итоговая работа/task/obj/Debug/net7.0/refint/task.dll
+/Users/polina_nesm/Documents/learning/итоговая работа/task/obj/Debug/net7.0/task.pdb
+/Users/polina_nesm/Documents/learning/итоговая работа/task/obj/Debug/net7.0/task.genruntimeconfig.cache
+/Users/polina_nesm/Documents/learning/итоговая работа/task/obj/Debug/net7.0/ref/task.dll
